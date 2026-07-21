@@ -20,3 +20,6 @@ This project demonstrates non-linear optimization and mathematical curve fitting
    pip install -r requirements.txt
 3. Run the script:
    python main.py
+
+📊 Results
+Upon execution, the script generates a comparison plot saved as result.png:
