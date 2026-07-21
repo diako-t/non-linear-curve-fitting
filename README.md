@@ -23,3 +23,4 @@ This project demonstrates non-linear optimization and mathematical curve fitting
 
 📊 Results
 Upon execution, the script generates a comparison plot saved as result.png:
+![Fitting Result](result.png)
